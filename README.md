@@ -1,5 +1,5 @@
 # my-desktop-setup
-> These is not the droid you're looking for
+> This is not the droid you're looking for
 
 Well, it used to be, but now you can find it at my [blog](https://manoel.tech/01-my-desktop-setup).
 
